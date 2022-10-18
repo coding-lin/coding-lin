@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小林同学祝您今天愉快!&center=true&size=27"> </a> </h1>
+
 <!--
 **coding-lin/coding-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +21,8 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-lin&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=coding-lin" /> </div>
+
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=coding-lin" /> </div>
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=coding-lin&theme=xcode" /> </div>
