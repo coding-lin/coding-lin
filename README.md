@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://stats.justsong.cn/api/juejin?id=726107228492253&theme=graywhite" /> </div>
 
+<div align="center"> <img src="https://stats.justsong.cn/api/leetcode?username=codinglin&cn=true" /> </div>
+
 <div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=coding-lin&theme=react" /> </div>
