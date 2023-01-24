@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World;Day Day No Bug&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World;Day+Day+No+Bug&center=true&size=27"> </a> </h1>
 
 <!--
 **coding-lin/coding-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
