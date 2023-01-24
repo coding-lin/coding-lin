@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World;小林同学祝您今天愉快！&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World;Day Day No Bug&center=true&size=27"> </a> </h1>
 
 <!--
 **coding-lin/coding-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,5 @@ Here are some ideas to get you started:
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=coding-lin&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-lin&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-
-<div align="center"> <img src="https://stats.justsong.cn/api/juejin?id=726107228492253" /> </div>
 
 <div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=coding-lin&theme=react" /> </div>
